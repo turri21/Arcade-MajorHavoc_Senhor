@@ -1,3 +1,8 @@
+-=(MajorHavoc_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Major Havoc (Atari, 1983) for MiSTer FPGA
 
 A MiSTer FPGA core for **Major Havoc**, Atari's 1983 dual-CPU color-vector
